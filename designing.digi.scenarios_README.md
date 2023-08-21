@@ -16,9 +16,13 @@ ____
 ### Χρονολογία κατασκευής: 2021-2022
 ___
 
-### Υπερσύνδεσμος πρόσβασης του OER: 
+### Υπερσύνδεσμος πρόσβασης του OER: Διεύθυνση φυσικού πόρου: 
  προσβάσιμο στο <https://elearning.iep.edu.gr/study/enrol/index.php?id=2311>  με την εγγραφή στο ανοιχτό διαδικτυακό μάθημα ΜΟΟC_ΤΠ2_ΚΑΛΛΙΤΕΧΝΙΚΑ- ΓΥΜΝΑΣΙΟ. Καθώς αφορά προαιρετική δραστηριότητα εξάσκησης, δίχως μετρήσιμο συντελεστή αξιολόγησης για την ολοκλήρωση του Mooc- ή- ενότητας του ΜΟΟC,αναρτάται στο Github ως χωριστό αντικείμενο:
 [ΘΕ1_Α_1.5_ Δραστηριότητες_1.5.1 και 1.5.2_scorm1.2.zip](https://github.com/fotinikafida/artteacherscurriculum/blob/main/%CE%98%CE%951_%CE%91_1.5_%20%CE%94%CF%81%CE%B1%CF%83%CF%84%CE%B7%CF%81%CE%B9%CF%8C%CF%84%CE%B7%CF%84%CE%B5%CF%82_1.5.1%20%CE%BA%CE%B1%CE%B9%201.5.2_scorm1.2.zip). Η μορφή SCORM καθιστά τον πόρο επαναχρησιμοποιήσιμο.  
+
+### Δημόσια έκθεση φυσικού πόρου (λειτουργία display): 
+Επειδή στο αποθετήριο github δεν μπορούν να τρέξουν javascript, μπορείτε να  δείτε τον πόρο σε λειτουργία display και να τον τεστάρετε δωρεάν online στο [SCORM preview Ninja](https://technologyinclassrooms.com/directory/authoring-tools/coursesuite-preview-ninja/), ή να κατεβάσετε δωρεάν το [SCORM 1.2 player](https://reload-scorm-player.software.informer.com/1.2/) που είναι εφαρμογή java. Μέχρι τις 20.09. 2023 μπορείτε ακόμη να τα δείτε  εδώ: <https://fotiniedu.moodlecloud.com/?lang=el_uni>. Πατήστε *'login as a guest'*--***δίχως όνομα/ password***- και θα εμφανιστεί αμέσως η σελίδα. Κλικ στην ενότητα ''OER_artcurriculum'' και ανοίγει στους επισκέπτες απευθείας: <https://fotiniedu.moodlecloud.com/course/view.php?id=9>. 
+
 ___
 
 ### Σκοπός/πλαίσιο δημιουργίας του OER:   
