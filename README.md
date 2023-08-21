@@ -47,7 +47,7 @@ The items have been incorporated into the  Institution's Information System, thr
 
 ## Usage
 
-As of July 2021, the MOOC projects aimed at automating the IEP training in the New Curriculum Programmes for public schools in Greece have not been launched for trainees. However, their construction and controls have been completed. 
+As of July 2021, the MOOC projects aimed at automating the IEP training in the New Curriculum Programmes for public schools in Greece, have not been launched for trainees. However, their construction and controls have been completed. Upload the content to SCORM preview Ninja, or to an LMS platform, or download SCORM 1.2 player (java application) that features a built-in SCORM 1.2 to run the content.
 
 ## Open educational resource-(OER)type
 
