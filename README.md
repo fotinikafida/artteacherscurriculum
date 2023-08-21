@@ -5,8 +5,8 @@ Upload the content to SCORM preview Ninja, or to an LMS platform, or download SC
 ## Περιεχόμενο αποθετηρίου
 
 Aυτό το αποθετήριο περιέχει δύο διαδραστικά στοιχεία- πακέτα SCORM που δημιουργήθηκαν το 2021-2022 με αφορμή την κατασκευή MOOC επιμόρφωσης εκπαιδευτικών στα Νέα Προγράμματα Σπουδών Εικαστικών του Γυμνασίου, στα πλαίσια του Έργου με κωδικό ΟΠΣ (MIS) 5035543 του Ινστιτούτου Εκπαιδευτικής Πολιτικής.   
-+ Το 4.2.2 Δραστηριότητα 'see-think-wonder'και το [χωριστό readme αρχείο της](https://github.com/fotinikafida/artteacherscurriculum/blob/main/'see-think-wonder'_README.md)
-+ Tο ΘΕ1_Α_1.5. Δραστηριότητες σχεδιασμού σεναρίου και το [χωριστό README.md αρχείο της](https://github.com/fotinikafida/artteacherscurriculum/blob/main/designing.digi.scenarios_README.md)
++ Το *4.2.2 Δραστηριότητα 'see-think-wonder'* και το [χωριστό readme αρχείο της](https://github.com/fotinikafida/artteacherscurriculum/blob/main/'see-think-wonder'_README.md)
++ Tο *ΘΕ1_Α_1.5. Δραστηριότητες σχεδιασμού σεναρίου* και το [χωριστό README.md αρχείο της](https://github.com/fotinikafida/artteacherscurriculum/blob/main/designing.digi.scenarios_README.md)
   
 Τα αντικείμενα έχουν ενσωματωθεί στο ολοκληρωμένο πληροφοριακό σύστημα του ΙΕΠ (ΟΠΣ,moodle), και είναι προσβάσιμα στο <https://elearning.iep.edu.gr/study/enrol/index.php?id=2311.> με την εγγραφή στο μάθημα. Αφορούν προαιρετικές δραστηριότητες εξάσκησης, δίχως  συντελεστή αξιολόγησης για την ολοκλήρωση, ώστε να μπορούν να αναρτηθούν ως ανεξάρτητοι και επαναχρησιμοποιήσιμοι πόροι.
 
