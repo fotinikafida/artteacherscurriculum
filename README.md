@@ -7,21 +7,16 @@ Upload the content to SCORM preview Ninja, or to an LMS platform, or download SC
 Aυτό το αποθετήριο περιέχει δύο διαδραστικά στοιχεία- πακέτα SCORM που δημιουργήθηκαν το 2021-2022 με αφορμή την κατασκευή MOOC επιμόρφωσης εκπαιδευτικών στα Νέα Προγράμματα Σπουδών Εικαστικών του Γυμνασίου, στα πλαίσια του Έργου με κωδικό ΟΠΣ (MIS) 5035543 του Ινστιτούτου Εκπαιδευτικής Πολιτικής.   
 + Το *4.2.2 Δραστηριότητα 'see-think-wonder'* και το [χωριστό readme αρχείο της](https://github.com/fotinikafida/artteacherscurriculum/blob/main/'see-think-wonder'_README.md)
 + Tο *ΘΕ1_Α_1.5. Δραστηριότητες σχεδιασμού σεναρίου* και το [χωριστό README.md αρχείο της](https://github.com/fotinikafida/artteacherscurriculum/blob/main/designing.digi.scenarios_README.md)
-+ ##  1. <a name='T-OEROER:'></a>Tύπος-Κατάταξη OER:
+   ### <a name='T-OEROER:'></a>Tύπος-Κατάταξη OER:
 <!-- vscode-markdown-toc -->
 <!-- vscode-markdown-toc-config
 	numbering=true
 	autoSave=true
 	/vscode-markdown-toc-config -->
 <!-- /vscode-markdown-toc -->
-|Οπτικοποιήσεις/Μοντέλα-Προσομοιώσεις Δυναμικές ή/και Αλληλεπιδραστικές |- [ Χ ]    
+| Οπτικοποιήσεις/Μοντέλα-Προσομοιώσεις Δυναμικές ή/και Αλληλεπιδραστικές | - [ Χ ]    
 |--------|-----------|
-|Δυναμικοί/Αλληλεπιδραστικοί Χάρτες| - [   ]   
-| Εκπαιδευτικά Παιχνίδια| - [    ]
-| Εφαρμογές Λογισμικού| -[  ]
-|**Εφαρμογές Πρακτικής και Εξάσκησης**| **-[ Χ ]**
-|AR/VR/MR Αντικείμενα| -[  ]
-|3D Αντικείμενα | -[   ]
+| **Εφαρμογές Πρακτικής και Εξάσκησης** | **- [ Χ ]**
 (*Το στοιχείο 'see-think-wonder'συνδυάζει και τους δύο τύπους στην κατηγοριοποίηση*)
   
 Τα αντικείμενα έχουν ενσωματωθεί στο ολοκληρωμένο πληροφοριακό σύστημα του ΙΕΠ (ΟΠΣ,moodle), και είναι προσβάσιμα στο <https://elearning.iep.edu.gr/study/enrol/index.php?id=2311.> με την εγγραφή στο μάθημα. Αφορούν προαιρετικές δραστηριότητες εξάσκησης, δίχως  συντελεστή αξιολόγησης για την ολοκλήρωση, ώστε να μπορούν να αναρτηθούν ως ανεξάρτητοι και επαναχρησιμοποιήσιμοι πόροι.
@@ -95,7 +90,6 @@ Greek.
 Protected under Creative Commons License Creator reference - Non-Commercial use - Share alike distribution 4.0 International.
 
 
- 
 
 
 
