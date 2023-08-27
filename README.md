@@ -6,7 +6,7 @@ Upload the content to SCORM preview Ninja, or to an LMS platform, or download SC
 
 Aυτό το αποθετήριο περιέχει δύο διαδραστικά στοιχεία- πακέτα SCORM που δημιουργήθηκαν το 2021-2022 με αφορμή την κατασκευή MOOC επιμόρφωσης εκπαιδευτικών στα Νέα Προγράμματα Σπουδών Εικαστικών του Γυμνασίου, στα πλαίσια του Έργου με κωδικό ΟΠΣ (MIS) 5035543 του Ινστιτούτου Εκπαιδευτικής Πολιτικής.   
 + Το *4.2.2 Δραστηριότητα 'see-think-wonder'* και το [χωριστό readme αρχείο της](https://github.com/fotinikafida/artteacherscurriculum/blob/main/'see-think-wonder'_README.md)
-+ Tο *ΘΕ1_Α_1.5. Δραστηριότητες σχεδιασμού σεναρίου* και το [χωριστό README.md αρχείο της](https://github.com/fotinikafida/artteacherscurriculum/blob/main/designing.digi.scenarios_README.md)
++ Tο *ΘΕ1_Α_1.5. Δραστηριότητες σχεδιασμού σεναρίου* και το [χωριστό README.md αρχείο της].(https://github.com/fotinikafida/artteacherscurriculum/blob/main/designing.digi.scenarios_README.md). Mπορείτε να το δείτε και σε χωριστό αποθετήριό του [εδώ](https://github.com/fotinikafida/designing-digi-scenarios_SCORM/tree/main) και να ανοίξετε τοπικά στον δικό σας browser το αρχείο [**index.html**](https://github.com/fotinikafida/designing-digi-scenarios_SCORM/blob/main/index.html) σε λειτουργία display
    ### <a name='T-OEROER:'></a>Tύπος-Κατάταξη OER:
 <!-- vscode-markdown-toc -->
 <!-- vscode-markdown-toc-config
@@ -22,7 +22,12 @@ Aυτό το αποθετήριο περιέχει δύο διαδραστικά
 Τα αντικείμενα έχουν ενσωματωθεί στο ολοκληρωμένο πληροφοριακό σύστημα του ΙΕΠ (ΟΠΣ,moodle), και είναι προσβάσιμα στο <https://elearning.iep.edu.gr/study/enrol/index.php?id=2311.> με την εγγραφή στο μάθημα. Αφορούν προαιρετικές δραστηριότητες εξάσκησης, δίχως  συντελεστή αξιολόγησης για την ολοκλήρωση, ώστε να μπορούν να αναρτηθούν ως ανεξάρτητοι και επαναχρησιμοποιήσιμοι πόροι.
 
 ## Χρήση (τεχνικά)
-Επειδή στο αποθετήριο github δεν μπορούν να τρέξουν javascript, μπορείτε να τα δείτε σε λειτουργία display και να τα τεστάρετε δωρεάν online στο [SCORM preview Ninja](https://technologyinclassrooms.com/directory/authoring-tools/coursesuite-preview-ninja/), ή να κατεβάσετε δωρεάν το [SCORM 1.2 player](https://reload-scorm-player.software.informer.com/1.2/) που είναι εφαρμογή java. Μέχρι τις 20.09. 2023 μπορείτε ακόμη να τα δείτε  εδώ: <https://fotiniedu.moodlecloud.com/?lang=el_uni>. Πατήστε *'login as a guest'*--***δίχως όνομα/ password***- και θα εμφανιστεί αμέσως η σελίδα. Κλικ στην ενότητα ''OER_artcurriculum'' και ανοίγει στους επισκέπτες απευθείας: <https://fotiniedu.moodlecloud.com/course/view.php?id=9>. 
+Επειδή στο αποθετήριο github δεν μπορούν να τρέξουν javascript, μπορείτε να τα δείτε σε λειτουργία display και
++ να τα τεστάρετε δωρεάν online στο [SCORM preview Ninja](https://technologyinclassrooms.com/directory/authoring-tools/coursesuite-preview-ninja/),
++ **να τα ανοίξετε τοπικά σε δικό σας browser, κατεβάζοντας και ανοίγοντας το αρχείο index.html**
++  να κατεβάσετε δωρεάν το [SCORM 1.2 player](https://reload-scorm-player.software.informer.com/1.2/) που είναι εφαρμογή java.
++   Μέχρι τις 20.09. 2023 μπορείτε ακόμη να τα δείτε  εδώ: <https://fotiniedu.moodlecloud.com/?lang=el_uni>. Πατήστε *'login as a guest'*--***δίχως όνομα/ password***- και θα εμφανιστεί αμέσως η σελίδα. Κλικ στην ενότητα ''OER_artcurriculum'' και ανοίγει στους επισκέπτες απευθείας: <https://fotiniedu.moodlecloud.com/course/view.php?id=9>.
+
 
 ## Είδος πόρων
 
