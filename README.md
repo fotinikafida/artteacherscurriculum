@@ -24,9 +24,9 @@ Aυτό το αποθετήριο περιέχει δύο διαδραστικά
 ## Χρήση (τεχνικά)
 Επειδή στο αποθετήριο github δεν μπορούν να τρέξουν τα SCORM χωρίς plugin, μπορείτε να τα δείτε σε λειτουργία display και
 + να τα τεστάρετε δωρεάν online στο [SCORM preview Ninja](https://technologyinclassrooms.com/directory/authoring-tools/coursesuite-preview-ninja/),
-+ να τα τεστάρετε τοπικά **σε δικό σας browser**, κατεβάζοντας και ανοίγοντας τα αρχεία με όνομα  "**index.html**" 
-+  να κατεβάσετε δωρεάν το [SCORM 1.2 player](https://reload-scorm-player.software.informer.com/1.2/) που είναι εφαρμογή java.
-+   Μέχρι τις 20.09. 2023 μπορείτε ακόμη να τα δείτε  εδώ: <https://fotiniedu.moodlecloud.com/?lang=el_uni>. Πατήστε *'login as a guest'*--***δίχως όνομα/ password***- και θα εμφανιστεί αμέσως η σελίδα. Κλικ στην ενότητα ''OER_artcurriculum'' που ανοίγει στους επισκέπτες απευθείας και ανοίξτε το καθένα από τα αντικείμενα αυτά επιλέγοντάς τα από τον τίτλο: <https://fotiniedu.moodlecloud.com/course/view.php?id=9>.
++ να τα τεστάρετε **σε δικό σας browser**, κατεβάζοντας και ανοίγοντας τα .html αρχεία με όνομα "**index.html**" 
++ να κατεβάσετε δωρεάν το [SCORM 1.2 player](https://reload-scorm-player.software.informer.com/1.2/) και να τα ανοίξετε τοπικά σε desktop.
++ δίχως τίποτε από τα παραπάνω, μέχρι τις 27.09.2023 μπορείτε ακόμη να τα δείτε  εδώ: <https://fotiniedu.moodlecloud.com/?lang=el_uni>. Πατήστε *'login as a guest'*--***δίχως όνομα/ password***- και θα εμφανιστεί αμέσως η σελίδα. Κλικ στην ενότητα ''OER_artcurriculum'' που ανοίγει στους επισκέπτες απευθείας και ανοίξτε το καθένα από τα αντικείμενα αυτά επιλέγοντάς τα από τον τίτλο: <https://fotiniedu.moodlecloud.com/course/view.php?id=9>.
 
 
 ## Είδος πόρων
