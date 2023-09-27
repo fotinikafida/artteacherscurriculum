@@ -83,7 +83,7 @@ Committee of the Institution of Educational Policy of Greece for the MOOCS of th
 https://elearning.iep.edu.gr/study/enrol/index.php?id=2311.Τhe projects in draft form are not offered for guest access.
 
 ## Public address
-You can enrol as a guest with free access to the moodle cloud(LMS) environment <https://fotiniedu.moodlecloud.com/course/view.php?id=9> to  display.
+You can enrol as a guest with free access to the moodle cloud(LMS) environment <https://artcurriculum.gnomio.com/course/view.php?id=2>or still <https://fotiniedu.moodlecloud.com/course/view.php?id=9> to  display.
 
 ## Contributors and Drafting Content:
 Drafting Group of experts/subject-matter editors & supervisors for the middle school art curriculum,(MIS) 5035543, 2021.
