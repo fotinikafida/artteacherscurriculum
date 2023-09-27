@@ -26,7 +26,7 @@ Aυτό το αποθετήριο περιέχει δύο διαδραστικά
 + να τα τεστάρετε δωρεάν online στο [SCORM preview Ninja](https://technologyinclassrooms.com/directory/authoring-tools/coursesuite-preview-ninja/), ή,
 + να τα τεστάρετε **σε δικό σας browser**, κατεβάζοντας και ανοίγοντας τα .html αρχεία με όνομα "**index.html**" ή,
 + να κατεβάσετε δωρεάν το [SCORM 1.2 player](https://reload-scorm-player.software.informer.com/1.2/) και να τα ανοίξετε τοπικά σε desktop ή,
-+ δίχως τίποτε από τα παραπάνω, μέχρι τις 27.09.2023 μπορείτε ακόμη να τα δείτε  εδώ: <https://fotiniedu.moodlecloud.com/?lang=el_uni>. Πατήστε *'login as a guest'*--***δίχως όνομα/ password***- και θα εμφανιστεί αμέσως η σελίδα. Κλικ στην ενότητα ''OER_artcurriculum'' που ανοίγει στους επισκέπτες απευθείας και ανοίξτε το καθένα από τα αντικείμενα αυτά επιλέγοντάς τα από τον τίτλο:<https://artcurriculum.gnomio.com/course/view.php?id=2> ή και <https://fotiniedu.moodlecloud.com/course/view.php?id=9>.
++ δίχως τίποτε από τα παραπάνω, μέχρι τις 27.09.2023 μπορείτε ακόμη να τα δείτε  εδώ: <https://fotiniedu.moodlecloud.com/?lang=el_uni> και στη συνέχεια εδώ:<https://artcurriculum.gnomio.com/course/view.php?id=2> Πατήστε *'login as a guest'*--***δίχως όνομα/ password***- και θα εμφανιστεί αμέσως η σελίδα. Κλικ στην ενότητα ''OER_artcurriculum'' που ανοίγει στους επισκέπτες απευθείας και ανοίξτε το καθένα από τα αντικείμενα αυτά επιλέγοντάς τα από τον τίτλο:<https://artcurriculum.gnomio.com/course/view.php?id=2> ή στο <https://fotiniedu.moodlecloud.com/course/view.php?id=9>.
 
 
 ## Είδος πόρων
